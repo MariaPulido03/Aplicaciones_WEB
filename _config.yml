@@ -134,7 +134,7 @@ links:
   - github:
       name: GitHub
       show: true
-      href: https://github.com/MariaPulido03
+      href: https://github.com/MariaPulido03/Aplicaciones_WEB
       icon: fab fa-github
   - codepen:
       name: CodePen
