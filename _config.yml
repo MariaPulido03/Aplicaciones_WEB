@@ -34,7 +34,7 @@ url: https://MariaPulido03.io/fuse-core/
 # 'baseurl' will often be '', but for a project page on gh-pages, it needs to be the project name.
 # If not empty, be careful to keep the leading slash, and don't add a slash at the end.
 #baseurl: ''
-baseurl: '/AplicacionesWeb'
+baseurl: '/Aplicaciones_WEB'
 
 # Enable Google Analytics. Leave empty (just "ga:" with subitems commented out) to disable.
 # In order to comply with EU cookie law, enable 'cookieconsent' to show a little popup asking users to acknowledge the GA cookies.
@@ -58,7 +58,7 @@ plausible:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://avatars0.githubusercontent.com/u/8897534"
+avatar: "https://i.pinimg.com/originals/fe/7b/64/fe7b643f93199b094055b99deab9ae24.png"
 #avatar: "images/jonathan_doe.jpg"
 #avatar:
 
@@ -103,7 +103,7 @@ links:
       icon: fab fa-facebook
   - vkontakte:
       name: ВКонтакте
-      show: true
+      show: FALSE
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
   - instagram:
@@ -173,7 +173,7 @@ links:
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
-      show: true
+      show: FALSE
       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
       icon: fas fa-key
 
